@@ -1,0 +1,11 @@
+Sample,Shapiro_Stat,P_value,Is_Normal
+"Abundances (Normalized): F2: Sample, Control, 302-2",0.4984479546546936,1.401298464324817e-45,False
+"Abundances (Normalized): F4: Sample, Control, 310-2",0.47113198041915894,0.0,False
+"Abundances (Normalized): F6: Sample, Control, 311-2",0.47627055644989014,0.0,False
+"Abundances (Normalized): F8: Sample, Control, 327-2",0.46038901805877686,0.0,False
+"Abundances (Normalized): F10: Sample, Control, 338-2",0.5023975372314453,1.401298464324817e-45,False
+"Abundances (Normalized): F12: Sample, Control, 343-2",0.4644466042518616,0.0,False
+"Abundances (Normalized): F14: Sample, Control, 346-2",0.41650837659835815,0.0,False
+"Abundances (Normalized): F16: Sample, Control, 364-2",0.5026496648788452,1.401298464324817e-45,False
+"Abundances (Normalized): F18: Sample, Control, 368-2",0.4855004549026489,0.0,False
+"Abundances (Normalized): F20: Sample, Control, 371-2",0.5146065950393677,2.802596928649634e-45,False

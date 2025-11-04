@@ -1,0 +1,2 @@
+total_proteins,total_samples,samples_with_flags,samples_high_missing,samples_low_intensity,samples_high_intensity,mean_missing_per_sample,median_proteins_per_sample,proteins_detected_all_samples,proteins_detected_50pct,proteins_detected_25pct,mean_detection_rate,median_cv,pca_outliers,variance_pc1,variance_pc2,samples_normally_distributed,samples_non_normal
+2800,120,5,2,2,1,42.9422619047619,1578.0,972,1561,1801,57.05773809523809,45.4833594934634,2,0.19444393081156933,0.11601872723839834,0,10
